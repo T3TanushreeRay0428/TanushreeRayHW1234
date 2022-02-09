@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_button">Open</string>
+    <string name="Edit_Text">Enter some text</string>
+    <string name="save_button">Save</string>
+    <string name="switch_text">Switch</string>
+</resources>
